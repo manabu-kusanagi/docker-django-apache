@@ -1,0 +1,9 @@
+# Django
+django#==2.2.2
+# mod wsgi
+mod_wsgi
+mod-wsgi-httpd
+# Mysql driver
+mysqlclient
+mysql-connector-python
+# Application
